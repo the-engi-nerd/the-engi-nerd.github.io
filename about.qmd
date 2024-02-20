@@ -1,0 +1,15 @@
+---
+title: "About"
+image: DCRCy6v4_400x400.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/the_engi_nerd
+    - icon: github
+      text: Github
+      href: https://github.com/the-engi-nerd
+---
+
+Electrical engineer, flight test professional, data scientist, simulation analyst, and simulation developer.
