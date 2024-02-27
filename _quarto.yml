@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/the-engi-nerd
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/the_engi_nerd
       - icon: rss
         href: index.xml
 format:
